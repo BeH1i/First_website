@@ -1,0 +1,1 @@
+console.log("Welcome Behrad!");alert("به اولین سایت من خوش اومدی 🚀");
